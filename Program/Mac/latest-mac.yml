@@ -1,0 +1,12 @@
+version: 0.0.1
+files:
+  - url: FsharpViewer-0.0.1-mac.zip
+    sha512: zqefSgboQAxaY4M58nvAk9mD9O9WvqKz/Bn8u+k95fyQgHIIdL9Vw5ldpwnCxZRYQgkC1YfUhRqUK4E1TIlv+Q==
+    size: 60055663
+    blockMapSize: 63000
+  - url: FsharpViewer-0.0.1.dmg
+    sha512: lgCphiLf7LCBFtFxfPu8+mjoOxi80NQfyqbond3Q0g9tGju21W97TScyMKUunRKzKcPJy/g6g6FTLZoZpk/LPw==
+    size: 62073207
+path: FsharpViewer-0.0.1-mac.zip
+sha512: zqefSgboQAxaY4M58nvAk9mD9O9WvqKz/Bn8u+k95fyQgHIIdL9Vw5ldpwnCxZRYQgkC1YfUhRqUK4E1TIlv+Q==
+releaseDate: '2019-09-11T06:33:58.731Z'

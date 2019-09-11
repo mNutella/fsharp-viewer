@@ -1,0 +1,8 @@
+Обязательно установить .NET Core SDK https://dotnet.microsoft.com/download.
+
+В инпут вставлять полный путь к папке с проектом =)
+Пример: "/Volumes/Data/Projects/Web/Electron/Data/Internal-Tools-Developer-FSharp-Micro-Program"
+
+Если не работает, зайти через консоль в папку Source где лежат исходники и выполнить команды (запуск в Develop):
+1) yarn
+2) yarn dev

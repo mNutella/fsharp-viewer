@@ -1,0 +1,45 @@
+.backButton {
+  position: absolute;
+  top: 20px;
+}
+
+.content {
+  font-size: 2rem;
+  height: 85vh;
+  overflow: auto;
+}
+
+.btnGroup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  font-size: 1.6rem;
+  font-weight: bold;
+  background-color: #a4d79c;
+  border-radius: 50%;
+  color: #8372da;
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  opacity: 0.7;
+  cursor: pointer;
+  outline: none;
+  font-family: Arial, Helvetica, Helvetica Neue, sans-serif;
+}
+
+.btn:hover {
+  color: white;
+  background-color: #a4d79c6b;
+}
+
+input {
+  width: 50%;
+  height: 50px;
+  padding-left: 10px;
+  border-radius: 36px;
+  font-size: 0.9rem;
+  outline: none;
+}
